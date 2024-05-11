@@ -14,7 +14,7 @@ This is a simple command-line calculator application built with Node.js, Inquire
 3. Navigate to the project directory:
 
     ```bash
-    cd @rehantechforge/simple-calculator
+    cd @rehantechforge/simple-calculator or any folder example cd <folder-name>
     ```
 
 4. Install dependencies:
