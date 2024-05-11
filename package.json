@@ -1,0 +1,20 @@
+{
+  "name": "@rehantechforge/simple-calculator",
+  "version": "1.1.0",
+  "description": "This is simple calculator for project, made by typescript.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Rehan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
